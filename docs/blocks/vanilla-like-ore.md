@@ -112,10 +112,6 @@ If needed you can add the enchanments section to your condition, but remember ea
 ]
 ```
 
-## Download .mcstructure
-
-[Link](https://wiki.bedrock.dev/assets/packs/tutorials/vanilla-like-ore/my_xp_structure.mcstructure)
-
 ## Result
 
 ![](/assets/images/blocks/vanilla-like-ores/result.gif)
